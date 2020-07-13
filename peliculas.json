@@ -1,0 +1,64 @@
+{
+  "peliculas": [
+    {
+      "id": 1,
+      "nombre": "El sexto sentido",
+      "director": "Jesus Gonzalez",
+      "clasificacion": "Drama"
+    },
+    {
+      "id": 2,
+      "nombre": "Pulp Fiction",
+      "director": "Cristhian Uzho",
+      "clasificacion": "Acción"
+    },
+    {
+      "id": 3,
+      "nombre": "Todo Sobre Mi Madre",
+      "director": "Alex Moran",
+      "clasificacion": "Drama"
+    },
+    {
+      "id": 4,
+      "nombre": "300",
+      "director": "Ivan Muñoz",
+      "clasificacion": "Acción"
+    },
+    {
+      "id": 5,
+      "nombre": "El silencio de los corderos",
+      "director": "Elias Alvarez",
+      "clasificacion": "Drama"
+    },
+    {
+      "id": 6,
+      "nombre": "Forrest Gump",
+      "director": "Armando Moreira",
+      "clasificacion": "Comedia"
+    },
+    {
+      "id": 7,
+      "nombre": "Las Hurdes",
+      "director": "Luis Gallego",
+      "clasificacion": "Documental"
+    }
+  ],
+  "clasificaciones": [
+    {
+      "nombre": "Drama",
+      "id": 1
+    },
+    {
+      "nombre": "Comedia",
+      "id": 2
+    },
+    {
+      "nombre": "Documental",
+      "id": 3
+    },
+    {
+      "nombre": "Acción",
+      "id": 4
+    }
+  ]
+}
